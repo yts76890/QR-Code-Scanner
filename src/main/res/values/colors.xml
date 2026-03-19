@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Material 3 seed -->
+    <color name="md_theme_light_primary">#6750A4</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_background">#FFFBFE</color>
+    <color name="md_theme_light_surface">#FFFBFE</color>
+    <color name="md_theme_dark_primary">#D0BCFF</color>
+    <color name="md_theme_dark_background">#1C1B1F</color>
+    <color name="md_theme_dark_surface">#1C1B1F</color>
+
+    <!-- UI colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="error_color">#B3261E</color>
+    <color name="card_bg">#FFFBFE</color>
+    <color name="selected_bg">#EDE7F6</color>
+
+    <!-- Chip colors -->
+    <color name="chip_scanned">#E3F2FD</color>
+    <color name="chip_generated">#E8F5E9</color>
+    <color name="chip_scanned_text">#1565C0</color>
+    <color name="chip_generated_text">#2E7D32</color>
+
+    <!-- Scan overlay -->
+    <color name="scan_overlay_corner">#6750A4</color>
+    <color name="scan_laser">#F44336</color>
+</resources>
